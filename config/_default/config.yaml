@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: STRaDe Research Group # Website name
-baseURL: 'https://strade.com/' # Website URL
+baseURL: 'https://chic-vacherin-455575.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
