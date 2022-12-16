@@ -1,10 +1,13 @@
 ---
 title: 
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# Files in this folder represent a Widget Page
+#type: widget_page
+
+widget: slider
+weight: 1
+active: true
+headless: true
 
 ---
 ## Security Technology Research and Development
